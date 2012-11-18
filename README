@@ -1,0 +1,7 @@
+This program is a "learning c++" project for me.
+I am more than happy to share the source with anyone who may find it usefull for their own projects.
+
+This program utilizes unix sockets to send messages over a LAN.
+It uses multithreading to overcome waiting on the read function before being able to send a message.
+
+This program was created with Qt Creator.
